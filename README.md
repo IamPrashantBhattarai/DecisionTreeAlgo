@@ -24,7 +24,7 @@ This project demonstrates the implementation and evaluation of a **Decision Tree
 
 - Understand the working of decision trees in classification problems.
 - Learn how to split data, train models, and interpret decision boundaries.
-- Evaluate model performance using accuracy and confusion matrix.
+- Evaluate model performance using accuracy and a confusion matrix.
 - Visualize decision paths and feature importance.
 
 ## 🚀 How to Run
