@@ -1,4 +1,4 @@
-# 🌳 Decision Tree Classifier – ML Assignment
+# 🌳 Decision Tree Classifier – ML
 
 This project demonstrates the implementation and evaluation of a **Decision Tree Classifier** using Python and scikit-learn. It's part of my hands-on machine learning coursework and showcases foundational concepts in classification, feature importance, and model evaluation.
 
